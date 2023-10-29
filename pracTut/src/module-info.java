@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author aamertia
+ *
+ */
+module pracTut {
+}
