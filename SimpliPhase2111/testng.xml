@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="tddTest">
+  <classes>
+  <class name="testRunner.MyRunner"/>
+  </classes>
+  </test> <!-- tddTest -->
+  
+</suite> 

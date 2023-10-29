@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-17T09:24:49Z" name="Suite" finished-at="2023-01-17T09:24:49Z" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T09:24:49Z" name="Test" finished-at="2023-01-17T09:24:49Z" duration-ms="34">
+      <class name="com.testng.TestJenk">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.TestJenk@7bc1a03d]" started-at="2023-01-17T14:54:49Z" name="beforeMethod" finished-at="2023-01-17T14:54:49Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:0, instance:com.testng.TestJenk@7bc1a03d]" started-at="2023-01-17T14:54:49Z" name="test1" finished-at="2023-01-17T14:54:49Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testng.TestJenk@7bc1a03d]" started-at="2023-01-17T14:54:49Z" name="afterMethod" finished-at="2023-01-17T14:54:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.testng.TestJenk -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
